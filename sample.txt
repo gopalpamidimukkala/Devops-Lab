@@ -1,0 +1,54 @@
+Aim: Configure the web application and Version control using Git using Git
+commands and version control operations.
+
+Tools Required: Git, Github cloud account, Internet connection, browser, Github
+Desktop(optional).
+
+
+Theory:
+
+Github: GitHub is a website and cloud-based service that helps developers store and
+manage their code, as well as track and control changes to their code.
+Procedure:
+
+Step-1: Open your browser and search for github and click on link: https://github.com/
+
+Step-2: Now sign with your existing GitHub credentials or sign up for a new
+GitHub account.
+
+Step-3: After sign-in click on new to create a new repository. Add your name to your
+repository and check on add a readme file and click on create repository. It creates a
+new repository.
+
+Step-4: And then install Git in your Pc by using the link: https://www.git-scm.com/
+And then after installation complete open the Git-bash.
+Type these commands:
+
+Step-5: After login with your credentials and type these commands to commit the
+file. Step-6: Now push the file to cloud repository. So we use the command.
+
+Step-7: Now open the github cloud and click on compare and pull request and then all
+files are stored in master branch.
+
+Step-8: Now create a new branch and again step those files in that branch.
+The commands are:
+
+
+Now we pushed the files into the new branch named branch1.
+Let check it at github cloub whether the branch is created and files are pushed or not.
+
+The branch is created and the file is also pushed.
+
+Step-9: Now we clone the files into a one new directory(i.e in Local repository) from
+github cloud repository
+
+
+The commands are:
+
+After cloning the files check the files whether they are opening or not.
+
+
+Conclusion:
+
+We learned how to use the github cloud and their git commands to push the files to
+cloud repository, c
